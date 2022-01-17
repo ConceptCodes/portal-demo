@@ -1,7 +1,7 @@
 # Portal-Demo
 Portal is a demo candidate selection application. You can view applicants, leave reviews and generate reports. The frontend was built with [Vue.js](https://vuejs.org/) & [Vuetify](https://vuetifyjs.com/) and the API is an [Express Application](https://expressjs.com/). For the database, I used [PostgreSQL](https://www.postgresql.org/). Hope you enjoy!
 
-> [Preview Link](https://temple-portal.herokuapp.com/#/landing?redirect=%2F)
+> [Preview Link](https://portal-demo.herokuapp.com/)
 
 ![portal demo banner](./demo.png)
 
